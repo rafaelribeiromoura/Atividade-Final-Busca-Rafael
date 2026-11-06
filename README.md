@@ -1,7 +1,7 @@
 # 8-Puzzle — Busca em Espaço de Estados
 
 ## O que implementar
-## IMPLEMENTADO NA PASTA "Atividade-Final-Busca-Rafael-main" Adicionada via Upload
+
 ### `puzzle/state.py`
 - `neighbors()` — gera os estados filhos a partir do espaço vazio
 - `path()` — reconstrói a sequência de estados do inicial até este
